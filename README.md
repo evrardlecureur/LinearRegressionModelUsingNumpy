@@ -14,9 +14,9 @@ Nous comparons les performances (RMSE) après avoir entraîné les deux modèles
 
 Pour lancer le projet 
 
-git clone [Lien de votre dépôt GitHub]
+git clone https://github.com/evrardlecureur/LinearRegressionModelUsingNumpy.git
 
-cd [Nom du dépôt]
+cd LinearRegressionModelUsingNumpy
 
 pip install -r requirements.txt
 

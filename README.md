@@ -12,5 +12,12 @@ Nous comparons les performances (RMSE) après avoir entraîné les deux modèles
 | **Mon Modèle Custom** | 39763.17 | 0.038s | Solution obtenue après 1000 itérations |
 
 
+Pour lancer le projet 
 
+git clone [Lien de votre dépôt GitHub]
 
+cd [Nom du dépôt]
+
+pip install -r requirements.txt
+
+python test.py
